@@ -1,0 +1,6 @@
+fekjab
+fuhjkbjvhj
+vhgfik
+git add filename to add specific area to git staging area
+
+git . will be used add multiple files which are newly created to staging area
